@@ -6,7 +6,7 @@ Este proyecto es una aplicación desarrollada en Laravel para gestionar estudian
 
 ## Integrantes:
 - RUBIN AZAS M. Luis (legajo: `26472`)
-- ZAMORA Martín (legajo: ``)
+- ZAMORA Martín (legajo: `20660`)
 
 ---
 
